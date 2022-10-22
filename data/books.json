@@ -1,0 +1,58 @@
+{
+  "books": [
+    {
+      "title": "Harry Potter i kamień filozoficzny",
+      "category": "Fantasy",
+      "author": "J.K. Rowling",
+      "year": 1992,
+      "price": 49.99
+    },
+    {
+      "title": "God father",
+      "category": "Crime",
+      "author": "Mario Puzo",
+      "year": 1960,
+      "price": 59.99
+    },
+    {
+      "id": "d1f18702-a41b-47d8-a704-7579ccb1c7c6",
+      "title": "test",
+      "category": "test",
+      "author": "test",
+      "year": "test",
+      "price": "test"
+    },
+    {
+      "id": "98dda4fe-742e-4a60-992e-250c0fc44480",
+      "title": "a",
+      "category": "a",
+      "author": "a",
+      "year": "a",
+      "price": "a"
+    },
+    {
+      "id": "0ff78643-717d-4cb6-ae55-e991e5e44eb0",
+      "title": "b",
+      "category": "b",
+      "author": "b",
+      "year": "b",
+      "price": "b"
+    },
+    {
+      "id": "24114faf-0f9c-4c9b-bc72-bc589b61467d",
+      "title": "c",
+      "category": "c",
+      "author": "c",
+      "year": "c",
+      "price": "c"
+    },
+    {
+      "id": "00af4bae-6079-4a88-aad0-dc85f9ab18b7",
+      "title": "d",
+      "category": "d",
+      "author": "d",
+      "year": "d",
+      "price": "d"
+    }
+  ]
+}
