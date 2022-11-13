@@ -59,13 +59,20 @@ const postBook = (newBook) => {
 //   }
 // }
 
-
 const renderBooks = (books) =>  {
   booksList.innerHTML = '';
 
   books.forEach((book) => {
+    // BEM
+    // Block__Elemenent--modificator
+
+    // books-list
+    // books-list__item
+    // books-list__item-price
+    // books-list__item-price--secondary
+
     booksList.innerHTML += `
-      <li>
+      <li class="list__list-item">
         <h2>${book.title}</h2>
         <p>Kategoria: ${book.category}</p>
         <p>Autor: ${book.author}</p>
